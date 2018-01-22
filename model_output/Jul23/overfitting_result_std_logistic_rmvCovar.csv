@@ -1,0 +1,9 @@
+Dataset,Degrees of freedom based on obs,Degrees of freedom based on outcomes,AUC on training,AUC on test,Estimate AUC,Difference in AUC between training and test,% difference between AUC on training and test,# of times treatment variable significant,Mean OR for treatment variable,# of covar retained
+1,5,0.63,0.88,0.59,0.57,0.29,32.77%,12,0.67,88
+1,10,1.26,0.82,0.63,0.62,0.19,23.24%,11,0.78,95
+1,15,1.89,0.79,0.65,0.65,0.14,18.13%,16,0.73,97
+1,20,2.52,0.77,0.67,0.66,0.11,13.82%,19,0.76,97
+1,25,3.14,0.76,0.67,0.67,0.09,11.81%,30,0.74,100
+1,30,3.77,0.75,0.68,0.67,0.08,10.17%,37,0.75,100
+1,35,4.40,0.75,0.68,0.68,0.07,9.39%,43,0.76,101
+1,40,5.03,0.75,0.70,0.68,0.05,6.50%,49,0.77,102
